@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.player-wrapper {
+  aspect-ratio: 16/9;
+}
+
+.react-player {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
